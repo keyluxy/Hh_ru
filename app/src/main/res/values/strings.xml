@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JobApp</string>
+    <string name="profile">Профиль</string>
+    <string name="message">Сообщения</string>
+    <string name="responses">Отклики</string>
+    <string name="favorite">Избранное</string>
+    <string name="search">Поиск</string>
+    <string name="recomendation">Рекомендации</string>
+    <string name="edit_text">Должность, ключевые слова</string>
+</resources>
